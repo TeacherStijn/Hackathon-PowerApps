@@ -35,6 +35,4 @@ In de productenapp dient de medewerker te kunnen registreren:
 - foto
 - voorraad
 
-Houd in het algemeen in gedachten:
-- Het is dus een systeem voor het bedrijf, niet voor de klanten
-- Voeg een paar producten toe in de app, vervolgens een aantal klanten en test of je voor deze klant(en) producten kan bestellen middels de orders app. Tot slot is het de bedoeling dat je op afroep een e-mail ontvangt met daarin een overzicht van de bestelde producten per klant van de afgelopen maand.
+Tot slot is het de bedoeling dat je op afroep een e-mail ontvangt met daarin een overzicht van de bestelde producten per klant van de afgelopen maand. Het is de bedoeling dat je hiervoor een Power Automate Flow gebruikt.
