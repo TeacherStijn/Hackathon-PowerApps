@@ -4,6 +4,8 @@ Voor een bedrijf dat gereedschap verkoopt in een winkel mag je een aantal apps o
 
 Er hoeft nog geen validatie te zijn of de producten op voorraad zijn of dat bepaalde leveringen al dan niet voltooid zijn.
 
+
+## Details opdracht
 In de bestellingapp dient de medewerker te kunnen registeren:
 - besteldatum (date)
 - Klant
@@ -38,7 +40,13 @@ In de productenapp dient de medewerker te kunnen registreren:
 
 Tot slot is het de bedoeling dat je op afroep een e-mail ontvangt met daarin een overzicht van de bestelde producten per klant van de afgelopen maand. Het is de bedoeling dat je hiervoor een Power Automate Flow gebruikt.
 
-*** Handige functies: ***
+
+## Documentatie
+[https://docs.microsoft.com/en-us/powerapps/]
+[https://docs.microsoft.com/en-us/power-automate/]
+
+
+## Handige functies
 - Filter(dataset, conditie);
 - Search(dataset, conditie);
 - First(dataset);
