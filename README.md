@@ -38,7 +38,7 @@ In de productenapp dient de medewerker te kunnen registreren:
 - foto (image)
 - voorraad (nummer)
 
-Tot slot is het de bedoeling dat je op afroep een e-mail ontvangt met daarin een overzicht van de bestelde producten per klant van de afgelopen maand. Het is de bedoeling dat je hiervoor een Power Automate Flow gebruikt.
+Tot slot is het de bedoeling dat de klant op zijn of haar e-mail adres een bevestiging van de bestelling ontvangt. Hiervoor dien je een Power Automate Flow te gebruiken.
 
 
 ## Documentatie
