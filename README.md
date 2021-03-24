@@ -7,12 +7,12 @@ Er hoeft nog geen validatie te zijn of de producten op voorraad zijn of dat bepa
 
 ## Details opdracht
 In de bestellingapp dient de medewerker te kunnen registeren:
-- besteldatum (date)
+- besteldatum 
 - Klant
-- leverdatum (date)
+- leverdatum 
 
 Ook dient in de database aanwezig te zijn:
-- ordernummer (autonummering, primaire kolom)
+- ordernummer 
 
 Maak het mogelijk via de Dataverse dat de leverdatum nooit eerder kan zijn dan de besteldatum.
 
@@ -21,22 +21,22 @@ Ook dient via de bestellingapp doorgeklikt te kunnen worden naar een ander scher
 Van de orderregels dient te worden geregistreerd:
 - Order
 - product
-- aantal (whole number)
+- aantal
 
 In de klantapp dient de medewerker te kunnen registeren:
-- naam (samen) (text)
-- straatnaam (text)
-- huisnummer (text)
-- postcode (text)
-- woonplaats (text)
+- naam (samen)
+- straatnaam
+- huisnummer
+- postcode
+- woonplaats
 
 In de productenapp dient de medewerker te kunnen registreren:
-- naam (text)
-- omschrijving (1000 tekens)
-- inkoopprijs (currency)
-- verkoopprijs (currency)
-- foto (image)
-- voorraad (nummer)
+- naam 
+- omschrijving 
+- inkoopprijs 
+- verkoopprijs
+- foto
+- voorraad 
 
 Tot slot is het de bedoeling dat de klant op zijn of haar e-mail adres een bevestiging van de bestelling ontvangt. Hiervoor dien je een Power Automate Flow te gebruiken.
 
