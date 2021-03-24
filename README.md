@@ -37,3 +37,17 @@ In de productenapp dient de medewerker te kunnen registreren:
 - voorraad (nummer)
 
 Tot slot is het de bedoeling dat je op afroep een e-mail ontvangt met daarin een overzicht van de bestelde producten per klant van de afgelopen maand. Het is de bedoeling dat je hiervoor een Power Automate Flow gebruikt.
+
+*** Handige functies: ***
+Filter(dataset, conditie);
+Search(dataset, conditie);
+First(dataset);
+Defaults(dataset);
+Patch(dataset, {});
+Update(dataset, rij, {});
+Set(var, {});
+UpdateContext(var, {});
+Refresh(dataset)
+Collect(var, waarde);
+ClearCollect(var);
+Navigate(scherm);
